@@ -1,3 +1,5 @@
+# How to opem new tab in visual studio #
+
 - Go to 
 ```js
 Preferences -> Settings -> UserSettings -> Workbench -> EditorManagement
